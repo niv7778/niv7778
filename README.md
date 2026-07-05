@@ -8,11 +8,11 @@
 
 ### 🔧 Tech Stack
 
-**Languages:** Java, JavaScript<br>
+**Languages:** Java, JavaScript, C++, Python<br>
 **Backend & APIs:** Spring Boot, REST APIs<br>
 **Databases:** MySQL<br>
 **Frontend:** React.js, HTML, CSS<br>
-**Testing:** Selenium (Basic Automated Web Testing)
+**Testing:** Selenium (Basic Automated Web Testing)<br>
 **Tools:** GitHub, Figma, Swagger
 
 ---
