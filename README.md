@@ -1,18 +1,18 @@
 ### Hi, I'm Nivetha 👋
 
-🎓 B.Tech Information Technology, Sri Krishna College of Technology (2027)
-💻 Aspiring Software Engineer
+🎓 B.Tech Information Technology, Sri Krishna College of Technology (2027)<br>
+💻 Aspiring Software Engineer<br>
 🚀 Interned at Zoho Corporation — built extensions, Deluge scripts, and internal API integrations
 
 ---
 
 ### 🔧 Tech Stack
 
-**Languages:** Java, Python, C, C++, JavaScript, Deluge
-**Backend & APIs:** Spring Boot, REST APIs, Flask
-**Databases:** MySQL
-**Frontend:** React.js, HTML, CSS
-**Zoho Ecosystem:** Zoho CRM, Zoho Desk, Zoho SDK, Widgets
+**Languages:** Java, Python, C, C++, JavaScript, Deluge<br>
+**Backend & APIs:** Spring Boot, REST APIs, Flask<br>
+**Databases:** MySQL<br>
+**Frontend:** React.js, HTML, CSS<br>
+**Zoho Ecosystem:** Zoho CRM, Zoho Desk, Zoho SDK, Widgets<br>
 **Tools:** GitHub, Figma, Swagger
 
 ---
