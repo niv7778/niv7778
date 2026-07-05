@@ -8,11 +8,11 @@
 
 ### 🔧 Tech Stack
 
-**Languages:** Java, Python, C, C++, JavaScript, Deluge<br>
-**Backend & APIs:** Spring Boot, REST APIs, Flask<br>
+**Languages:** Java, JavaScript<br>
+**Backend & APIs:** Spring Boot, REST APIs<br>
 **Databases:** MySQL<br>
 **Frontend:** React.js, HTML, CSS<br>
-**Zoho Ecosystem:** Zoho CRM, Zoho Desk, Zoho SDK, Widgets<br>
+**Testing:** Selenium (Basic Automated Web Testing)
 **Tools:** GitHub, Figma, Swagger
 
 ---
@@ -36,5 +36,3 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niv7778&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niv7778&layout=compact)
