@@ -7,19 +7,12 @@
 ---
 
 ### 🔧 Tech Stack
-
-
-* **Programming Languages:** `Java` • `JavaScript` • `Python` • `SQL`
-* **Backend Development:** `Spring Boot` • `Flask` • `MySQL`
-* **Frontend Development:** `React.js` • `HTML` • `CSS`
-* **Cloud & Infrastructure:** `AWS (EC2, S3, IAM, VPC)` • `DNS` • `Load Balancing`
-* **DevOps & Tools:** `Linux/Unix` • `Bash Scripting` • `REST APIs` • `GitHub` • `Swagger`
-* **Testing:** `Selenium (Automated Web Testing)`
-* **Core Concepts:** `OOP` • `Data Structures & Algorithms` • `System Design` • `Networking`
-* **Design:** `Figma`
-
-
-
+**Languages:** Java, JavaScript, SQL  
+**Backend:** Spring Boot, REST APIs  
+**Frontend:** React.js, HTML, CSS  
+**Database:** MySQL  
+**Cloud & DevOps:** AWS, Docker, GitHub Actions  
+**Testing & Tools:** JUnit, Selenium, Git, GitHub, Swagger
 ---
 
 ### 📌 Projects
