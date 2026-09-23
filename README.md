@@ -4,16 +4,16 @@
 💻 Aspiring Software Engineer<br>
 🚀 Interned at Zoho Corporation — built extensions, Deluge scripts, and internal API integrations
 
----
 
-🔧 Tech Stack
+
+###🔧 Tech Stack
 **Languages**: Java, JavaScript, SQL  
 **Backend**:Spring Boot, REST APIs  
 **Frontend**:React.js, HTML, CSS  
 **Database**:MySQL  
 **Cloud & DevOps**:AWS, Docker, GitHub Actions  
 **Testing & Tools**: JUnit, Selenium, Git, GitHub, Swagger
----
+
 
 ### 📌 Projects
 
