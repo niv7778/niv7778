@@ -7,12 +7,12 @@
 ---
 
 ### 🔧 Tech Stack
-**Languages:** Java, JavaScript, SQL  
-**Backend:** Spring Boot, REST APIs  
-**Frontend:** React.js, HTML, CSS  
-**Database:** MySQL  
-**Cloud & DevOps:** AWS, Docker, GitHub Actions  
-**Testing & Tools:** JUnit, Selenium, Git, GitHub, Swagger
+**Languages**: Java, JavaScript, SQL  
+**Backend**:Spring Boot, REST APIs  
+**Frontend**:React.js, HTML, CSS  
+**Database**:MySQL  
+**Cloud & DevOps**:AWS, Docker, GitHub Actions  
+**Testing & Tools**: JUnit, Selenium, Git, GitHub, Swagger
 ---
 
 ### 📌 Projects
