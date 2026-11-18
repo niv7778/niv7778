@@ -14,36 +14,44 @@
 - **Cloud & DevOps:** AWS, Docker, GitHub Actions, CI/CD
 - **Tools:** Git, GitHub, Swagger, Selenium
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-## 🤖 AURA – Multi-Agent AI Study Assistant
-AI-powered study assistant prototype featuring a 5-agent architecture for personalized learning and study planning.
+### 🤖 AURA — Multi-Agent AI Study Assistant
+An AI-powered learning assistant that uses multiple agents to support personalized learning and answer academic queries.
 
-**Technologies:** HTML, CSS, JavaScript, OpenAI Embeddings, FAISS, RAG
+**Tech Stack:** React.js · JavaScript · OpenAI Embeddings · FAISS · RAG
 
-## 🛡️ PhishShield – AI-Powered Phishing & Deepfake Detection
-Built a WhatsApp-based security system with a Flask backend hosted on AWS EC2. Integrated a Kaggle-trained phishing detection model and VirusTotal for URL analysis, OpenCV for image and QR processing, video frame extraction, and Hive AI for deepfake and AI-generated audio/video detection. Combines detection results to generate risk assessments and delivers responses through the WhatsApp Cloud API.
+---
 
-**Technologies:** Python, Flask, AWS EC2, WhatsApp Cloud API, OpenCV, NumPy, VirusTotal API, Hive AI
+### 🛡️ PhishShield — AI-Powered Phishing & Deepfake Detection
+A WhatsApp-based security system that analyzes suspicious messages, URLs, images, QR codes, videos, and audio. Uses multiple detection services to generate risk assessments and deliver results through WhatsApp.
 
-## 🚀 CI/CD Deployment Pipeline with Automated Monitoring
+**Tech Stack:** Python · Flask · AWS EC2 · WhatsApp Cloud API · OpenCV · NumPy · VirusTotal API · Hive AI
+
+---
+
+### ⚙️ CI/CD Deployment Pipeline with Automated Monitoring
 Automated Flask application deployment to AWS EC2 using GitHub Actions and Docker, with CloudWatch CPU monitoring.
 
-**Technologies:** Python, Flask, Docker, GitHub Actions, AWS EC2, CloudWatch
+**Tech Stack:** Python · Flask · Docker · GitHub Actions · AWS EC2 · CloudWatch
 
-## 🕒 Employee Attendance Management System
-Full-stack attendance management application with employee record handling and attendance tracking.
+---
 
-**Technologies:** Java, Spring Boot, MySQL, React.js
+### 🕒 Employee Attendance Management System
+A full-stack application for managing employee records and tracking attendance through a centralized system.
 
-## 📂 Other Projects
+**Tech Stack:** Java · Spring Boot · MySQL · React.js
 
-- **LRU Cache Implementation (Java):** O(1) cache operations using HashMap and Doubly Linked List.
-- **Inventory & Order Management System (C++):** Object-oriented inventory and order management.
-- **Sports Fanclub Website:** Full-stack platform for sports discussions, event registrations, and merchandise browsing.
-- **IoT-Based Post Disaster Management System:** IoT-based search-and-rescue support using Raspberry Pi and sensor data.
-- **KNN Classifier from Scratch:** K-Nearest Neighbors implementation with a Streamlit dashboard.
-- **Event Management Website:** Platform for browsing and registering for events.
+---
+
+## 💻 Other Projects
+
+- **LRU Cache Implementation (Java)** — Implemented O(1) cache operations using HashMap and a Doubly Linked List.
+- **Inventory & Order Management System (C++)** — Object-oriented inventory and order management.
+- **Sports Fan Club Website** — A website for sports communities and fan engagement.
+- **IoT-Based Post-Disaster Management** — IoT-based solution for post-disaster monitoring and management.
+- **KNN Classifier** — Machine learning implementation of the K-Nearest Neighbors algorithm.
+- **Event Management Website** — Web application for managing events.
 
   ## Certifications & Courses
 
