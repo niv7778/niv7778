@@ -16,22 +16,22 @@
 
 ## 📌 Featured Projects
 
-### 🤖 AURA – Multi-Agent AI Study Assistant
+## 🤖 AURA – Multi-Agent AI Study Assistant
 AI-powered study assistant prototype featuring a 5-agent architecture for personalized learning and study planning.
 
 **Technologies:** HTML, CSS, JavaScript, OpenAI Embeddings, FAISS, RAG
 
-### 🛡️ [PhishShield – AI-Powered Phishing & Deepfake Detection](#)
+## 🛡️ [PhishShield – AI-Powered Phishing & Deepfake Detection](#)
 Built a WhatsApp-based security system with a Flask backend hosted on AWS EC2. Integrated a Kaggle-trained phishing detection model and VirusTotal for URL analysis, OpenCV for image and QR processing, video frame extraction, and Hive AI for deepfake and AI-generated audio/video detection. Combines detection results to generate risk assessments and delivers responses through the WhatsApp Cloud API.
 
 **Technologies:** Python, Flask, AWS EC2, WhatsApp Cloud API, OpenCV, NumPy, VirusTotal API, Hive AI
 
-### 🚀 CI/CD Deployment Pipeline with Automated Monitoring
+## 🚀 CI/CD Deployment Pipeline with Automated Monitoring
 Automated Flask application deployment to AWS EC2 using GitHub Actions and Docker, with CloudWatch CPU monitoring.
 
 **Technologies:** Python, Flask, Docker, GitHub Actions, AWS EC2, CloudWatch
 
-### 🕒 Employee Attendance Management System
+## 🕒 Employee Attendance Management System
 Full-stack attendance management application with employee record handling and attendance tracking.
 
 **Technologies:** Java, Spring Boot, MySQL, React.js
@@ -45,7 +45,7 @@ Full-stack attendance management application with employee record handling and a
 - **KNN Classifier from Scratch:** K-Nearest Neighbors implementation with a Streamlit dashboard.
 - **Event Management Website:** Platform for browsing and registering for events.
 
-  ## 📜 Certifications & Courses
+  ## Certifications & Courses
 
 - **Cloud IT Administrator** – Elective Course Completion
 - **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** — Oracle
@@ -58,4 +58,4 @@ Full-stack attendance management application with employee record handling and a
 
 ## 📫 Connect With Me
 
-[![LinkedIn]((https://www.linkedin.com/in/nivetha-anand19/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivetha-anand19/)
