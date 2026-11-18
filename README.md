@@ -21,7 +21,7 @@ AI-powered study assistant prototype featuring a 5-agent architecture for person
 
 **Technologies:** HTML, CSS, JavaScript, OpenAI Embeddings, FAISS, RAG
 
-## 🛡️ [PhishShield – AI-Powered Phishing & Deepfake Detection](#)
+## 🛡️ PhishShield – AI-Powered Phishing & Deepfake Detection
 Built a WhatsApp-based security system with a Flask backend hosted on AWS EC2. Integrated a Kaggle-trained phishing detection model and VirusTotal for URL analysis, OpenCV for image and QR processing, video frame extraction, and Hive AI for deepfake and AI-generated audio/video detection. Combines detection results to generate risk assessments and delivers responses through the WhatsApp Cloud API.
 
 **Technologies:** Python, Flask, AWS EC2, WhatsApp Cloud API, OpenCV, NumPy, VirusTotal API, Hive AI
