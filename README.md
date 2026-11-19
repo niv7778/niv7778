@@ -20,6 +20,7 @@
 An AI-powered learning assistant that uses multiple agents to support personalized learning and answer academic queries.
 
 **Tech Stack:** React.js · JavaScript · OpenAI Embeddings · FAISS · RAG
+[View Repository](https://github.com/niv7778/aura-ai-study-assistant.git)
 
 ---
 
@@ -34,6 +35,8 @@ A WhatsApp-based security system that analyzes suspicious messages, URLs, images
 Automated Flask application deployment to AWS EC2 using GitHub Actions and Docker, with CloudWatch CPU monitoring.
 
 **Tech Stack:** Python · Flask · Docker · GitHub Actions · AWS EC2 · CloudWatch
+[View Repository]([https://github.com/niv7778/aura-ai-study-assistant.git](https://github.com/niv7778/devops-mini-project.git))
+
 
 ---
 
