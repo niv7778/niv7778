@@ -1,7 +1,7 @@
 # Hi, I'm Nivetha 👋
 
 🎓 B.Tech Information Technology student at Sri Krishna College of Technology (2027)  
-💻 Aspiring Software Engineer | Interested in AI-powered applications, full-stack development and Cloud Computing. <br>
+💻 Aspiring Software Engineer | Interested in AI-powered applications, full-stack development and Cloud IT Administrator. <br>
 🚀 Software Engineering Intern at Zoho Corporation — developed 5+ custom extensions and integrated REST APIs using Deluge and JavaScript.
 
 ## 🔧 Technical Skills
