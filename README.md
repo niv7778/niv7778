@@ -19,7 +19,7 @@
 ### 🤖 AURA — Multi-Agent AI Study Assistant
 An AI-powered learning assistant that uses multiple agents to support personalized learning and answer academic queries.
 
-**Tech Stack:** React.js · JavaScript · OpenAI Embeddings · FAISS · RAG
+**Tech Stack:** React.js · JavaScript · OpenAI Embeddings · FAISS · RAG <br>
 [View Repository](https://github.com/niv7778/aura-ai-study-assistant.git)
 
 ---
@@ -34,8 +34,8 @@ A WhatsApp-based security system that analyzes suspicious messages, URLs, images
 ### ⚙️ CI/CD Deployment Pipeline with Automated Monitoring
 Automated Flask application deployment to AWS EC2 using GitHub Actions and Docker, with CloudWatch CPU monitoring.
 
-**Tech Stack:** Python · Flask · Docker · GitHub Actions · AWS EC2 · CloudWatch
-[View Repository]([https://github.com/niv7778/aura-ai-study-assistant.git](https://github.com/niv7778/devops-mini-project.git))
+**Tech Stack:** Python · Flask · Docker · GitHub Actions · AWS EC2 · CloudWatch <br>
+[View Repository](https://github.com/niv7778/devops-mini-project.git)
 
 
 ---
@@ -44,6 +44,7 @@ Automated Flask application deployment to AWS EC2 using GitHub Actions and Docke
 A full-stack application for managing employee records and tracking attendance through a centralized system.
 
 **Tech Stack:** Java · Spring Boot · MySQL · React.js
+[View Repository](https://github.com/niv7778/employee_attendance_system.git)
 
 ---
 
