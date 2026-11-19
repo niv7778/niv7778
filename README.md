@@ -43,7 +43,7 @@ Automated Flask application deployment to AWS EC2 using GitHub Actions and Docke
 ### 🕒 Employee Attendance Management System
 A full-stack application for managing employee records and tracking attendance through a centralized system.
 
-**Tech Stack:** Java · Spring Boot · MySQL · React.js
+**Tech Stack:** Java · Spring Boot · MySQL · React.js <br>
 [View Repository](https://github.com/niv7778/employee_attendance_system.git)
 
 ---
